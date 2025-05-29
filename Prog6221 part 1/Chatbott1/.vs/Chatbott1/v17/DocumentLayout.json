@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Documents\\Prog6221 part 1\\Chatbott1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6C144A-45C3-4DE2-81B1-FE53BDFFC24D}|Chatbott1.csproj|c:\\users\\dell\\onedrive\\documents\\prog6221 part 1\\chatbott1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6C144A-45C3-4DE2-81B1-FE53BDFFC24D}|Chatbott1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Chatbott1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chatbott1",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\Prog6221 part 1\\Chatbott1\\Chatbott1.csproj",
+              "RelativeDocumentMoniker": "Chatbott1.csproj",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\Prog6221 part 1\\Chatbott1\\Chatbott1.csproj",
+              "RelativeToolTip": "Chatbott1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-29T17:39:23.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\Prog6221 part 1\\Chatbott1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\Prog6221 part 1\\Chatbott1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHgAAAAA8P/////zv4EAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:10:34.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Dell\OneDrive\Documents\Prog6221 part 1\Chatbott1\bin\Debug\Chatbott1.exe.config
+C:\Users\Dell\OneDrive\Documents\Prog6221 part 1\Chatbott1\bin\Debug\Chatbott1.exe
+C:\Users\Dell\OneDrive\Documents\Prog6221 part 1\Chatbott1\bin\Debug\Chatbott1.pdb
+C:\Users\Dell\OneDrive\Documents\Prog6221 part 1\Chatbott1\obj\Debug\Chatbott1.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Documents\Prog6221 part 1\Chatbott1\obj\Debug\Chatbott1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Documents\Prog6221 part 1\Chatbott1\obj\Debug\Chatbott1.exe
+C:\Users\Dell\OneDrive\Documents\Prog6221 part 1\Chatbott1\obj\Debug\Chatbott1.pdb
+C:\Users\Dell\OneDrive\Documents\Prog6221 part 1\Chatbott1\bin\Debug\Resources\Greetings.wav
+C:\Users\Dell\OneDrive\Documents\Prog6221 part 1\Chatbott1\obj\Debug\Chatbott1.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Documents\Prog6221 part 1\Chatbott1\obj\Debug\Chatbott1.csproj.GenerateResource.cache
